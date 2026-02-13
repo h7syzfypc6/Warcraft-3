@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/wc3-cheat-engine-logo.png" alt="Warcraft 3 Cheat Engine Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=WC3+CHEAT+ENGINE;OP+INFINITE+RESOURCES+2026;GODMODE+NO+CD;UNIT+SPAWNER;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
